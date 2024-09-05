@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Description": "Lunch",
+    "Amount": 15.0,
+    "Date": "2024-09-05T22:10:45.5041519+03:30",
+    "Category": "Food"
+  }
+]
